@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wrestlegearscom-wq.github.io/wwe-replica-belts-guide/sitemap.xml
